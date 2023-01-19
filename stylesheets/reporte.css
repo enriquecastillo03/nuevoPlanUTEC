@@ -1,0 +1,98 @@
+#cabecera_resultados,#pie_resultados
+				{
+				height: 150px;
+				width: 90%;
+				margin: 0 auto;
+				}
+			#cuerpo_resultados,#cabecera_resultados
+				{
+				border-bottom: solid;
+				color: black;
+				}
+			#cuerpo_resultados
+				{
+				margin: 0 auto;			
+				width: 90%;				
+				}
+			#imagen
+				{
+				position: absolute;
+				top: 20px;
+				right: 90px;
+				background: url(reporte.png) no-repeat;
+				background-size: 120px;
+				height: 120px;
+				width: 120px;
+				}
+			#logotipo
+				{
+				position: absolute;
+				top: 20px;
+				left: 90px;
+				background: url(logo.png) no-repeat;
+				background-size: 130px;
+				height: 120px;
+				width: 120px;
+				}
+			#titulo1,#titulo2
+				{
+				width: 50%;
+				height: 45%;
+				margin: 0 auto;
+				text-align: center;
+				font-family: arial;
+				}
+			#titulo1
+				{
+				font-size: 40px;
+				font-weight: bold;
+				}
+			#titulo2
+				{
+				font-size: 15px;
+				font-style: italic;
+				}
+			#pie_resultados
+				{
+				bottom: 0px;
+				height: 100px;
+				text-align: center;
+				font-family: arial;
+				font-size: 12px;
+				font-style: italic;
+				}
+			#tabla_resultados
+				{		
+				border: solid;
+				border-color: black;
+				border-width: 0.5px;
+				margin: 0 auto;
+				background-color: #818181;
+				}
+			th
+				{
+				text-align: center;
+				font-weight: bold;
+				font-family: arial;
+				font-size: 15px;
+				background-color: #EFEFEF;				
+				border: solid;
+				border-color: black;
+				border-width: 0.5px;
+				}
+			td
+				{
+				text-align: center;
+				background-color: #FFFFFF;	
+				font-family: arial;
+				font-size: 13px;			
+				border: solid;
+				border-color: black;
+				border-width: 0.5px;
+				}
+			img
+				{
+				margin-top: 15px;
+				width: 120px;
+				height: 120px;
+				}

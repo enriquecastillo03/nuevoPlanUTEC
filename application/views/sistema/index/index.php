@@ -1,0 +1,1 @@
+<img src="<?php echo base_url().'media/imagenes/index/sistema.png'?>" style=" display: block;margin-left: auto;margin-right: auto">
