@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT Ok Aqui vamos editando con vscode - nueva autenticacion
+ * APPLICATION ENVIRONMENT Ok Aqui vamos editando con vscode - autenticacion Alias
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
