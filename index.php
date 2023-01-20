@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT Ok
+ * APPLICATION ENVIRONMENT Ok Aqui vamos editando con vi
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
