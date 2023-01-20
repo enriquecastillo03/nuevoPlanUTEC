@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT Ok Aqui vamos editando con vi
+ * APPLICATION ENVIRONMENT Ok Aqui vamos editando con vscode
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
